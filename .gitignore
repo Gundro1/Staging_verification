@@ -1,0 +1,14 @@
+# Byte-compiled / optimized files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Output Workbooks (Keep directory structure)
+QA_Reference_Datasets/*.xlsx
+!QA_Reference_Datasets/.gitkeep
+
+# Environment & Temp Files
+.env
+/tmp/
+*.tmp
+.DS_Store
